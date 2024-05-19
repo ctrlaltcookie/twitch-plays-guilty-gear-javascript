@@ -1,0 +1,17 @@
+{
+  "name": "chess",
+  "version": "1.0.0",
+  "description": "",
+  "main": "chess.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-gamepad": "^0.1.15",
+    "robotjs": "^0.6.0",
+    "say": "^0.16.0",
+    "tmi.js": "^1.8.5"
+  }
+}
